@@ -8,7 +8,7 @@
 <img src="https://github.com/QmDeve/QmDeve/blob/main/assets/colored.png?raw=true" width="100%">
 
 ### **My Project：**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rouneant&repo=Qm-Authentication-for-Android&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=3)](https://github.com/Rouneant/Qm-Authentication-for-Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rouneant&repo=Qm-Authenticator-for-Android&theme=transparent&title_color=0b61f4&text_color=0b61f4&random=3)](https://github.com/Rouneant/Qm-Authentication-for-Android)
 
 <img src="https://github.com/QmDeve/QmDeve/blob/main/assets/colored.png?raw=true" width="100%">
 
