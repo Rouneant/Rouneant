@@ -19,8 +19,8 @@
 
 ### **Discus:**
 
-<a href="https://t.me/QmDeves" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram%20Group-@QmDeves-0b61f4?style=flat&logo=telegram&logoColor=white">
+<a href="https://t.me/QmDeve" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram%20Group-@QmDeve-0b61f4?style=flat&logo=telegram&logoColor=white">
 </a>
 <br>
 <a href="https://qm.qq.com/q/dOqR9ZpKDe" target="_blank">
